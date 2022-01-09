@@ -1,4 +1,0 @@
-fof-terms:
-    forum:
-        accept-modal:
-            i-accept: '我接受新 <a>{policy}</a>'
