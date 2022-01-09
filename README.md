@@ -9,14 +9,14 @@
 你也可以安裝在composer上。
 ### 安裝 / Installation
 ```
-composer require pattinsonfuture/lang-traditional-chinese
-composer require pattinsonfuture/lang-traditional-chinese
+composer require ssangyongsports/lang-traditional-chinese
+composer require ssanyongsports/lang-traditional-chinese
 ```
 
 ### 移除 / Remove
 ```
-composer remove pattinsonfuture/lang-traditional-chinese
-composer remove pattinsonfuture/lang-traditional-chinese
+composer remove ssangyong/lang-traditional-chinese
+composer remove ssangyongsports/lang-traditional-chinese
 ```
 
 
